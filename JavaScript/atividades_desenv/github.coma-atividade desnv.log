@@ -1,0 +1,86 @@
+VM1088:1 olá turma
+window.alert ("cuidado com a disperssão")
+undefined
+console.log ("Olá turma")
+VM1320:1 Olá turma
+undefined
+console.loh (10+5)
+VM1376:1 Uncaught TypeError: console.loh is not a function
+    at <anonymous>:1:9
+(anonymous) @ VM1376:1
+console.log (10+5);
+VM1438:1 15
+undefined
+console.log ("meu nome é...);
+VM1533:1 Uncaught SyntaxError: Invalid or unexpected token (at VM1533:1:14)
+console.log ("Meu nome é...")
+VM1664:1 Meu nome é...
+undefined
+const nome = "David";
+undefined
+const idade = 29;
+undefined
+nome
+'David'
+idade
+29
+const nome = "jose";
+undefined
+nome
+'jose'
+let pontos = 10;
+undefined
+pontos
+10
+console.log(typeof "ADS");
+VM2174:1 string
+undefined
+console.log(typeof "45");
+VM2186:1 string
+undefined
+console.log(typeof "50.57");
+VM2200:1 string
+undefined
+console.log(typeof 50.57);
+VM2209:1 number
+undefined
+var1 = 15
+15
+var2 = 20
+20
+soma = var1 + var2
+35
+var1 = 20
+20
+var2 = 4
+4
+soma = var1 + var2
+24
+var1 * var2
+80
+var1 - var2
+16
+var1 / var2
+5
+var1, var2, soma=var1+var2, subtracao=var1-var2, mult=var1*var2, div=var1/var2;
+5
+n1 = 7
+7
+n2 = 8
+8
+n3 = 9
+9
+soma = n1+n2+n3/3
+18
+soma = n1+n2+n3
+24
+soma = n1+n2+n3/3
+18
+soma = n1+n2+n3/3;
+18
+soma = n1+n2+n3
+24
+media = n1+n2+n3/3
+18
+media = (n1+n2+n3)/3
+8
